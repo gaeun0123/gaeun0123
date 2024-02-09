@@ -4,22 +4,22 @@
 </p>
 
 
-<h2 align="center">Hi there! 👋</h2>
+<h1 align="center">Hi there! 👋</h1>
 
-<p align="center">
+<h3 align="center">
 🚀 배우고 싶은 것이 많고, 배움에 <b>희열</b>을 느끼는 열정러입니다. 🚀
-</p>
+</h3>
     
-<p align="center">
+<h3 align="center">
 ✊ 말보다는 행동! 항상 <b>노력</b>으로 보답하겠습니다. ✊
-</p>
+</h3>
 
-<p align="center">
+<h3 align="center">
 👾 <b><i>'드론'</b>과 <b><i>'로봇'</b> 에 관심이 많습니다 👾
-</p>
+</h3>
 
 <br></br>
-<h2 align="center">⚡ Tech Stack ⚡</h2>
+<h1 align="center">⚡ Tech Stack ⚡</h1>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
