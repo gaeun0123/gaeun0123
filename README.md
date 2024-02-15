@@ -44,7 +44,7 @@
 <h2 align="center">📎 Contact 📎</h2>
 <div align="center" style="display:flex; flex-direction:row;">
     <a href="mailto:cheun0928@naver.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp
+        <img src="https://img.shields.io/badge/Naver-6DB33F?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp
     </a>
 </div>
 
